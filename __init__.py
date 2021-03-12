@@ -1,1 +1,1 @@
-from calcy import *
+from calcy-math import *

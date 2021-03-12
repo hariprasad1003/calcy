@@ -4,7 +4,7 @@ with open("README.md", "r") as file:
     description = file.read()
 
 setuptools.setup(
-    name="calcy",
+    name="calcy-math",
     packages=setuptools.find_packages(),
     version="0.0.1",
     license='MIT', 
@@ -13,7 +13,7 @@ setuptools.setup(
     description="A simple math library",
     long_description=description,
     long_description_content_type="text/markdown",
-    url="https://github.com/hariprasad1003/calcy",
+    url="https://github.com/hariprasad1003/calcy-math",
     download_url="",
     classifiers=[
         "Programming Language :: Python :: 3",

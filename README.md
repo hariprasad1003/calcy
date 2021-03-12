@@ -1,4 +1,4 @@
-# calcy
+# calcy-math
 ## _A Simple Math Library_
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
@@ -9,13 +9,13 @@ Install the dependencies and devDependencies and start the server.
 
 ```sh
 cd my_app
-pip install calcy
+pip install calcy-math
 ```
 
-Importing calcy
+Importing calcy-math
 
 ```
-from calcy import *
+from calcy-math import *
 ```
 Running Server
 ```
