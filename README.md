@@ -9,13 +9,13 @@ Install the dependencies and devDependencies and start the server.
 
 ```sh
 cd my_app
-pip install calcy-math
+pip install calcymath
 ```
 
-Importing calcy-math
+Importing calcymath
 
 ```
-from calcy-math import *
+from calcymath import *
 ```
 Running Server
 ```

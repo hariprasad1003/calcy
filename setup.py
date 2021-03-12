@@ -4,9 +4,9 @@ with open("README.md", "r") as file:
     description = file.read()
 
 setuptools.setup(
-    name="calcy-math",
+    name="calcymath",
     packages=setuptools.find_packages(),
-    version="0.0.4",
+    version="0.0.5",
     license='MIT', 
     author="Hari Prasad",
     author_email="hariprasadgurunathan10@gmail.com",
